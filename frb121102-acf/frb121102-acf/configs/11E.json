@@ -1,0 +1,6 @@
+{
+  "label": "11E",
+  "file": "data/11E_344sec.calib.4p",
+  "burst_window_ms": [7.4, 9.0],
+  "off_window_ms": [10.5, 20.8]
+}
